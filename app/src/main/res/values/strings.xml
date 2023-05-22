@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account">No account?</string>
+    <string name="register_here">Register here</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="something_went_wrong">Something went wrong, try again</string>
+    <string name="wrong_password_or_email">Wrong password or email</string>
+    <string name="login_with_your_account">Please login with your account</string>
+    <string name="upload_story">Upload story</string>
+    <string name="write_your_story_here">Write your story here...</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="logout">Logout</string>
+</resources>
